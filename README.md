@@ -56,7 +56,8 @@ grid on;
 sgtitle('Impact of V2G Integration on Power Grid');
 ```
 ## OUTPUT
-<img width="1244" height="848" alt="image" src="https://github.com/user-attachments/assets/a0205bed-9636-412e-b611-0d55b126b0f2" />
+<img width="1244" height="848" alt="image" src="https://github.com/user-attachments/assets/a0205bed-9636-412e-b611-0d55b126b0f2" /> 
+
 ## RESULT
 Thus, the simulation shows that V2G integration helps in peak load reduction, frequency support, and improved renewable hosting capacity. However, it also introduces challenges like battery degradation and increased stress on local distribution networks.
 
